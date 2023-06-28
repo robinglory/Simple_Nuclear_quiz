@@ -1,6 +1,6 @@
 	const questions = [
 	{
-		question: "Where should the power plant build?",
+		question: "Optimal location to construct the power plant",
 		answers: [
 				{text: "In the city", correct: false},
 				{text: "Outside the city" , correct: false},
@@ -9,7 +9,7 @@
 			]
 	},
 	{
-		question: "What kind of environment should Nuclear Power Plant build?",
+		question: "Type of environment should be established for a Nuclear Power Plant",
 		answers: [ 
 				{text: "Located some body of water", correct: true},
 				{text: "On the mountain" , correct: false},
@@ -18,7 +18,7 @@
 			]
 	},
 	{
-		question: "Suitable location in Myanmar",
+		question: "Ideal Location in Myanmar",
 		answers: [
 				{text: "Yangon", correct: false},
 				{text: "Mandalay" , correct: false},
@@ -27,18 +27,18 @@
 			]
 	},
 	{
-		question: "Land area required",
+		question: "Land area requirement",
 		answers: [
 				{text: "less than 1 square mile", correct: false},
 				{text: "1 square mile" , correct: false},
-				{text: "a little more than 1 square mile", correct: true},
+				{text: "A little more than 1 square mile", correct: true},
 				{text: "2 square mile", correct: false},
 			]
 	},
 	{
-		question: "How much money would it cost to build?",
+		question: "Estimated financial investment required for construction",
 		answers: [
-				{text: "under 4 billions dollars", correct: false},
+				{text: "Under 4 billions dollars", correct: false},
 				{text: "Between 6 billions and 9 billions dollars" , correct: true},
 				{text: "Over 10 billions dollars", correct: false},
 				{text: "Totally Free", correct: false},

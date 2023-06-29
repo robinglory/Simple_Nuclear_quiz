@@ -1,8 +1,8 @@
 	const questions = [
 	{
-		question: "Optimal location to construct the power plant",
+		question: "Optimal location to construct the Power Plant",
 		answers: [
-				{text: "In the city", correct: false},
+				{text: "Inside the city", correct: false},
 				{text: "Outside the city" , correct: false},
 				{text: "10 miles far away from the city", correct: false},
 				{text: "50 miles far away from the city", correct: true},
